@@ -1,0 +1,38 @@
+# Fichiers Eclipse
+.metadata
+.project
+.settings/
+
+# Fichiers de compilation Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Fichiers de dépendances Maven
+target/
+pom.xml.tag
+
+# Fichiers de dépendances Gradle
+build/
+.gradle/
+
+# Fichiers de logs
+logs/
+
+# Fichiers temporaires
+*.tmp
+*.bak
+
+# Fichiers de sauvegarde Eclipse
+*.bak
+*.backup
+
+# Fichiers de configuration utilisateur
+.eclipse/
+.settings/org.eclipse.jdt.core.prefs
+.settings/org.eclipse.jdt.ui.prefs
+
+# Fichiers de dépendances externes
+lib/
+
